@@ -1,26 +1,26 @@
-# Template Repository
-This is a template, please fill it with your teams data. Places to fill in data are marked with a //TODO. If you fail to do so, our jury can't evaluate your project. 
+# KUDO
+face detector and filters in your web broswer   
 
 ## Description 
-//TODO: describe your project
+Web App will replace the native apps in our phone and desktops. and KUDO is an experimental item of only using web front end to reach the functionality of native app. and first demo of KUDO is a face filter for BVB fans and Do! Hack hackathon 
 
 ## Built with
-//TODO: lists the technologies you use and their purpose
+Javascript, Three.js, Neural Networks, Jeeliz face detector
 
 ## What benefit will your work bring in smart city context?
-//TODO: list benefits and tell us your motivation in working on this topic
+the light-weight feature of KUDO will make promotions of differnet items more convinient and while that convenience is what smart city asks for. Also it will be applied in digital try-on for shopping business.
 
 ## What were challenges you encountered and Lessons Learned?
-//TODO: describe challenges you encountered and how you solved them. also name your lessons learned
+Don't give up having fun by doing.
 
 ## About your team
-//TODO: describe each team member with their background knowledge
+This is my side project of this hackathon. I have a mean task which is AJA. but later I decided to stay up late for the experiment I always wanna do. 
 
 ## What's next for your project?
-//TODO: is there anything you've planned to work on after this hackathon? you've got some ideas of features to add? 
+transfering from being fun to being praticle. Face filter is just one fun application
 
 ## How does it look?
-//TODO: got any screenshots? post them here!
+
 
 ## Anything to add?
-//TODO: add additional information. Is there soemthing you couldn't mention before? Do you have some videos or demos of your project?
+as fun as snapshot but just way easier and no burden to install. web and calculating in front end is the furture of internet.
