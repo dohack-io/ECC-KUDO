@@ -20,7 +20,8 @@ This is my side project of this hackathon. I have a mean task which is AJA. but 
 transfering from being fun to being praticle. Face filter is just one fun application
 
 ## How does it look?
-please come and try out live demo! it is up and running in any smartphone / laptop / desktop / tablet
+please come and try out live demo! and see the filters on youself!
+it is up and running in any smartphone / laptop / desktop / tablet
 ![bvb](https://raw.githubusercontent.com/dohack-io/ECC-KUDO/master/doc/KudoDemo_bvb.jpg)
 ![hack](https://raw.githubusercontent.com/dohack-io/ECC-KUDO/master/doc/KudoDemo_hack.jpg)
 
